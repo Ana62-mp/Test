@@ -3,7 +3,8 @@ meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
             "NTP": "No te preocupes",
-            "CHILL": "Relajarse, no preocuparse"
+            "CHILL": "Relajarse, no preocuparse",
+            "Hola": "saludo"
             }
 
 word = input("Escribe una palabra que no entiendas: ").upper()
